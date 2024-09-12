@@ -1,0 +1,2 @@
+C:\Users\Sviat\source\repos\suspend3\visual studio\x64\Release\suspend.exe
+C:\Users\Sviat\source\repos\publicsuspend\visual studio\x64\Release\suspend.exe
