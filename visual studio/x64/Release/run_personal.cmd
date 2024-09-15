@@ -1,1 +1,0 @@
-suspend.exe eurotrucks2.exe 300 960 0x04 - - - - z - -
