@@ -1,1 +1,1 @@
-suspend.exe eurotrucks2.exe 300 690 - - - - - - - -
+suspend.exe eurotrucks2.exe 300 960 - - - - - - - -
