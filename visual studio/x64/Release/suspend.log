@@ -33,7 +33,7 @@ C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(1006,
 C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(1161,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(1172,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(1338,6): warning C4101: 'msg': unreferenced local variable
-C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(743): warning C4715: 'BindKeyMode': not all control paths return a value
 C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(784): warning C4715: 'BindKeyModeAlt': not all control paths return a value
+C:\Users\Sviat\source\repos\publicsuspend\visual studio\macroframework.cpp(743): warning C4715: 'BindKeyMode': not all control paths return a value
   LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
   suspend.vcxproj -> C:\Users\Sviat\source\repos\publicsuspend\visual studio\x64\Release\suspend.exe
