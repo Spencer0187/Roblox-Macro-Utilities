@@ -5,7 +5,11 @@
       <FullPath>C:\Users\Sviat\source\repos\publicsuspend\visual studio\x64\Release\suspend.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
-  <ContentFiles />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Sviat\source\repos\publicsuspend\visual studio\x64\Release\LSANS.ttf</FullPath>
+    </ContentFile>
+  </ContentFiles>
   <SatelliteDlls />
   <NonRecipeFileRefs />
 </Project>
