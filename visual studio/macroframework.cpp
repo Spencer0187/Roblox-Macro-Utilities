@@ -495,6 +495,21 @@ void WallWalkLoop()
 	}
 }
 
+void EmoteClip {
+	if (macrotoggled && notbinding && section_toggles[11]) {
+		if (chatTypeDefined == 0 ) { //old chat, the one that needs to press "/" instead of ";" or "Enter/retrun"
+			SimulatePressKey(0xc1)
+			PasteText("/e dance2")
+			SimulatePressKey(0x0d)
+		}
+		else {
+  			SimulatePressKey(0xbf)
+			PasteText("/e dance2")
+			SimulatePressKey(0x0d)
+		}
+	}
+}
+
 bool IsMainWindow(HWND handle)
 {
 	return GetWindow(handle, GW_OWNER) == (HWND)0 && IsWindowVisible(handle);
